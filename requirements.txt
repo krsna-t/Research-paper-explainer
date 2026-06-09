@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-core
+langchain-huggingface
+transformers
+torch
+accelerate
+sentence-transformers
+huggingface-hub
